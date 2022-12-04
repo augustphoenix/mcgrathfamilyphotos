@@ -10,8 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://uceap.universityofcalifornia.edu/sites/default/files/marketing-images/life-in-city-images/galway-ireland-glance.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 This site is intended to act as a digital collection of our family photos while the physical photos are still largely inaccessible to most of us. When Grandma Jan and Grandpa Bill moved out of their home in 2019, they left hundreds, if not *thousands* of photos, heirlooms, and memorabilia behind. From Grandma Jan's kindergarten report cards to their original wedding album to cards from every possible relative, there are many more items to be collected and saved here. 
