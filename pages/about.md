@@ -8,20 +8,16 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://uceap.universityofcalifornia.edu/sites/default/files/marketing-images/life-in-city-images/galway-ireland-glance.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This site is intended to act as a digital collection of our family photos while the physical photos are still largely inaccessible to most of us. When Grandma Jan and Grandpa Bill moved out of their home in 2019, they left hundreds, if not *thousands* of photos, heirlooms, and memorabilia behind. From Grandma Jan's kindergarten report cards to their original wedding album to cards from every possible relative, there are many more items to be collected and saved here. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+While this project began as a part of August's LBSC671 course in grad school, it is hoped to become much more- there are many more photos stored away in bins to be scanned, organized, and uploaded here. A digital collection of Grandpa Bill's paintings is in the works to preserve decades of art that has been carried miles away from the little shed in the backyard of our grandparents' house. 
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+If you would like your photos to be added to this collection, or if you have other questions or concerns, please email August at ap98@umd.edu. Privacy of the individuals pictured and consent for uploading is extremely important, and your full permission is required for uploading. 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/image.html objectid="coll025" width="75" %}
