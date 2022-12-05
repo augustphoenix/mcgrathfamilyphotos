@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: McGrath-Zeiger Family 
+title: McGrath-Zeiger Family Library
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: A growing collection of our family history
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: McGrath-Zeiger Family is a collection of family photos from the 1900s and 2000s digitized to share with relatives.
+description: McGrath-Zeiger Family Library is a collection of digitized family photos from the 1900s and 2000s intended to share with relatives.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: August Phoenix Miguez
 
